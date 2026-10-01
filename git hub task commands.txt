@@ -6,3 +6,7 @@
 4. git commit -m "this is first commit"
 5. git commit -m "adding files"
 6. git push -u origin master
+updating commands:
+1. git add .
+2. git commit -m "any message"
+3. git push
