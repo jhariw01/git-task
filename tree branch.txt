@@ -1,1 +1,13 @@
-git init
+1. git init
+2. git remote add origin
+3. git add .
+4. git commit -m "this is first commit"
+5. git commit -m "adding files"
+6. git push -u origin master
+7. git push
+8. git checkout master
+9. git pull origin master
+10. git checkout -b feature/branch-practice
+11. git add .
+12. git commit -m "creating first branch"
+13. git push -u origin feature/branch- practice
