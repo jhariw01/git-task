@@ -1,0 +1,31 @@
+h1 {background-color:aqua;
+}
+
+#heading {background-color: #000dff;
+text-align: center;
+}
+#para{
+    font-size: 16px;
+    padding: 10px;
+    color: teal;
+}
+.para2{
+    color:crimson;
+    background-color:blueviolet;
+    text-align:center;
+}
+#box1 {
+    width: 200px;
+    height: 20px;
+    background-color: red;
+    margin: 30px;
+    border: 2px solid;
+}
+
+#box2 {
+    width: 200px;
+    height: 20px;
+    background-color: rgb(2, 93, 128);
+    margin: 30px;
+    border: 2px solid;
+}
